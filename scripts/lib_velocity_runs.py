@@ -1,4 +1,4 @@
-# COMPUTE VELOCITY MODEL ERRORS
+# SIMULATE VELOCITY MODEL and COMPUTE ERRORS
 
 import numpy as np
 import pandas as pd
